@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привіт, я Матвій 👋
 
-<!--
-**povapape/povapape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Розробляю вебзастосунки та автоматизацію для реальних бізнес-процесів.
 
-Here are some ideas to get you started:
+## Tarlex Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Працюю над цифровою платформою для компанії у сфері промислової водопідготовки:
+
+- Багатомовний сайт із каталогом, конфігуратором обладнання та кабінетом клієнта.
+- Адміністративна панель для роботи із заявками, товарами та клієнтами.
+- Backend для замовлень, сповіщень та інтеграцій із Firebase, Google Sheets і Telegram.
+- Два Telegram-боти: для команди та для клієнтів.
+
+**Стек:** TypeScript, Next.js, React, Python, FastAPI, Firebase, Telegram Bot API.
+
+🌐 [Переглянути сайт Tarlex Engineering](https://tarlux-engineering.com)
+
+Робочі репозиторії проєкту приватні. Активність розробки відображається в календарі внесків нижче.
